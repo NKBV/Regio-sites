@@ -21,5 +21,7 @@ Elk item krijgt een van deze 3 labels:
 * **Nice to have**
 
 Ten slotte zijn er nog overige labels:
-**Bekend bij Bitfactory:** Dit label word toegekend aan bugs of wensen die in behandeling zijn bij bitfactory, hier wordt dus aan gewerkt
+
+**Bekend bij Bitfactory:** 
+Dit label word toegekend aan bugs of wensen die in behandeling zijn bij bitfactory, hier wordt dus aan gewerkt
 
